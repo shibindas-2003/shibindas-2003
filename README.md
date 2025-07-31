@@ -27,4 +27,4 @@ name: Shibindas K
 <h2 align="center">💡 Quote to Remember</h2>
 "Consistency is more important than perfection." ✨
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
