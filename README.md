@@ -7,7 +7,6 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-```md
 name: Shibindas K
 🎓 status: Final Year CSE Student
 💼 working_on: "AI Chatbot for College Helpdesk"
